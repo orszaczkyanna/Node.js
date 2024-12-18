@@ -1,0 +1,9 @@
+run node by type node
+
+run server.js
+node server
+
+---------------------------
+
+CommonJS instead of ES6
+require statement instead of import ... from ...
