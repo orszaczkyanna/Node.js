@@ -1,0 +1,20 @@
+[
+  {
+    "username": "ethan",
+    "roles": { "User": 2001, "Editor": 1984 },
+    "password": "$2b$10$MhGNI/sBYj3WBWzNR5PU.eYa.Mw87Jb0GHBewKLEdAw08A.GoBuuu",
+    "refreshToken": ""
+  },
+  {
+    "username": "amelia",
+    "roles": { "User": 2001, "Editor": 1984, "Admin": 5150 },
+    "password": "$2b$10$9VwRBBI92LGn1iYJg3m.4O/KjglIKGkDlh59OcIaU7lcdwPXThjUW",
+    "refreshToken": ""
+  },
+  {
+    "username": "uriel",
+    "roles": { "User": 2001 },
+    "password": "$2b$10$KsfGvijzcGWDcNMQBh6gYeO8K.R7/X8w5ZbiMI1JKotj/1RmqNgce",
+    "refreshToken": ""
+  }
+]
